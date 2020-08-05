@@ -1,0 +1,19 @@
+ion-content ion-toolbar {
+  --background: translucent;
+  --color: var(--ion-color-light) !important
+}
+
+ion-content.background{
+  --background: url(/assets/fondo.png)  50% 10% no-repeat !important;
+  --color: var(--ion-color-light) !important
+}
+
+.ion-slides {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.ion-slide {
+  width: 600px !important;
+  height: 100% !important;
+}
